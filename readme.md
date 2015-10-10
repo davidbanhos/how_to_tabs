@@ -2,5 +2,5 @@ How to: Tabs
 ====================
 
 
-To run the build, type: 'node build.js'
+To run the build, type: 'node jakefile.js'
 
