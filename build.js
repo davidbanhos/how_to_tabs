@@ -5,6 +5,6 @@
 (function() {
     "use strick";
 
-    console.log("Hello World");
+    console.log("\n\nBUILD OK");
 
 }());
